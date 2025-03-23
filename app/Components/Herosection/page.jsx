@@ -24,7 +24,7 @@ const Hero = () => {
         </button>
         <div>
   <Image 
-    src="/Image/Hero.svg" 
+    src="/Image/hero.svg" 
     alt="Hero Image" 
     width={500} 
     height={300} 
